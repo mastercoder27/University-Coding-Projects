@@ -1,0 +1,132 @@
+p1B3CC4FB0AN22533                "Ford  XL Passenger"          2008/04/15       s    15    
+c1FA6P0H75E540265          "Chevrolet Silverado 3500"          2007/07/10       m    2.88    
+c1FAFP53U57A20716                    "Dodge Ram 3500"          2012/12/11       s    2.04    
+i1FDFE4FS9HDC5569                     "Ford  Mustang"          2012/05/22       s    
+c1FM5K8D8XFGC5879          "Chevrolet Silverado 3500"          2017/03/21       m    2.88    
+p1FMEU63E57UA4221                "Ford  XL Passenger"          2016/07/13       s    15    
+i1FMFU18L83LB2792                  "Chevrolet Impala"          2014/09/10       s    
+c1FMYU93173KD3842                    "Dodge Ram 2500"          2017/01/20       a    1.53    
+t1FT8W3BT4HEB3924                  "Chevrolet Impala"          2017/01/21       s    
+c1FTEW1EF7GFC2757                    "Dodge Ram 2500"          2010/12/05       s    1.53    
+i1FTEX1EP8HFA0806                     "Dodge Charger"          2017/02/26       s    
+c1FVHC5DV0BDAW533                    "Dodge Ram 2500"          2007/06/28       s    1.53    
+c1G1ZB5E05CF34699                       "Ford  F 250"          2014/04/15       s    1.9    
+c1G4GB5G35EF16141                    "Dodge Ram 2500"          2011/01/24       m    1.53    
+p1GNEK13R8XJ30676               "Dodge Grand Caravan"          2006/09/05       s    7    
+p1GNEK13Z22J24590       "Chevrolet Express Passenger"          2006/11/02       s    15    
+p1HGCG16511A04582                "Ford  XL Passenger"          2006/06/16       s    15    
+i1HGCG66542A04894                     "Ford  Mustang"          2017/04/13       s    
+c1HGCM665X6A00382                    "Dodge Ram 2500"          2015/04/20       s    1.53    
+i1HGCP26848A00924                       "Ford  Focus"          2014/03/13       s    
+k1N4AL11E92C71367                       "Ford  F 250"          2007/02/03       s    1.9    
+p1N4AL2APXCN41663                "Ford  XL Passenger"          2012/06/21       s    15    
+c1YVHP84C545N9431                       "Ford  F 250"          2014/04/11       s    1.9    
+i2B3CJ4DV0AH13363                     "Ford  Mustang"          2017/75/19       m    
+c2D4GP44L36R69582                    "Dodge Ram 2500"          2014/02/06       s    1.53    
+p2FUYDXYB3SA78126                "Ford  XL Passenger"          2013/09/26       s    15    
+c2G1WF55E93913972                    "Dodge Ram 2500"          2017/02/11       s    1.53    
+i2GTEC19V6Y133494                     "Dodge Charger"          2016/04/17       s    
+c2HGES16563H61350                       "Ford  F 150"          2017/11/08       s    3.04    
+c2HNYD18906H51039          "Chevrolet Silverado 2500"          2016/08/06       s    1.62    
+i2T2BK1BA6DC21575                     "Ford  Mustang"          2015/01/15       s    
+i3D7KU28C43G82111                     "Ford  Mustang"          2017/06/23       s    
+p3G2JB5244WS86805                "Ford  XL Passenger"          2006/01/15       a    15    
+c3GNVKEE04AG11143          "Chevrolet Silverado 3500"          2015/07/08       m    2.88    
+i3N1AB7AP1HY32493                     "Ford  Mustang"          2007/10/17       s    
+c3VW217AUXGM05908                    "Dodge Ram 2500"          2009/01/10       s    1.53    
+i3VWD17AJ2EM37239                  "Chevrolet Impala"          2016/01/09       a    
+c3VWRZ7AJ9AM03754                       "Ford  F 150"          2007/12/28       a    3.04    
+i3VWSF81K16M75041                     "Ford  Mustang"          2013/03/23       s    
+c4A3AC34G81E08575                    "Dodge Ram 2500"          2013/07/18       a    1.53    
+c4DRBUAAPXEB77195                       "Ford  F 250"          2009/02/24       s    1.9    
+i4P1CA01H95A0053L                  "Chevrolet Impala"          2006/03/07       s    
+i4T1CE30P67U76089                     "Ford  Mustang"          2016/03/02       s    
+p4T3ZA3BB1BU05491               "Dodge Grand Caravan"          2011/11/15       s    7    
+i4T4BF1FK0ER34733                  "Chevrolet Malibu"          2012/08/04       s    
+c4T4BF1FK5ER36874                       "Ford  F 250"          2011/07/25       s    1.9    
+c5N1AZ2MHXHN10472                       "Ford  F 250"          2008/04/02       s    1.9    
+c5NPEB4AC8DH70144                    "Dodge Ram 2500"          2008/09/15       a    1.53    
+c5TDZARFH8ES00485                       "Ford  F 250"          2015/04/26       a    1.9    
+i5TDZK23C08S17258                  "Chevrolet Impala"          2009/11/16       s    
+iJF2GTABC0JH24047                     "Ford  Mustang"          2014/07/09       a    
+pJHBNE8JTX51S1105               "GMC Thomas Minotour"          2009/03/08       a    14    
+pJN8AS5MV9DW65269                        "Temsa TS45"          2015/04/10       a    56    
+pJN8AT2MT3GW01385               "International IC-RE"          2010/08/11       a    84    
+JJN8AZ1MWXBW17668                       "Ford  F 250"          9014/37/96       7    1.9    
+pJTDJT92347505774               "Dodge Grand Caravan"          2014/07/07       s    7    
+iJTEGD20V35005566                     "Ford  Mustang"          2007/05/23       s    
+iJTEGD21A96014408                  "Chevrolet Impala"          2009/05/17       s    
+pJTEHH20V83607208               "GMC Thomas Minotour"          2009/03/07       s    14    
+iJTHBK1GG5F218903                     "Ford  Mustang"          2006/10/24       s    
+pJTNKARJE2GJ51496               "Dodge Grand Caravan"          2008/08/05       s    7    
+iKL8CD6S90EC53534                       "Dodge Demon"          2017/04/04       s    
+pKMHCT4AE8EU62747               "Dodge Grand Caravan"          2015/06/20       s    7    
+iKMHDU46D89U81160                       "Dodge Demon"          2015/09/05       s    
+cKNAFU4A28A518674                       "Ford  F 250"          2015/04/06       s    1.9    
+pKNDJN2A29G739833                "Ford  XL Passenger"          2008/03/15       s    15    
+cSAJWA2GBXBLV0633                    "Dodge Ram 2500"          2010/06/07       s    1.53    
+iYV1SW61T33230498                       "Dodge Demon"          2011/05/24       s    
+i05N1AR2MMXEC6560                  "Chevrolet Impala"          2010/08/07       9    
+i10CHG35U85112289                       "Dodge Demon"          2017/04/16       s    
+p10T2C0BA0N104399             "Ford  Transit Connect"          2008/01/10       s    7    
+c10VFT80N65524033                    "Dodge Ram 3500"          2016/08/27       a    2.04    
+i11C4PJLCB0FW7231                       "Dodge Demon"          2015/05/09       s    
+f11FAHP2MK5FG1460                     "Ford  Mustang"          2007/10/22       s    
+p11GCHSAEA5F12107        "Freightliner CT Coachworks"          2006/11/22       s    56    
+p11M1AE07Y91W0079                "Ford  XL Passenger"          2012/07/21       s    15    
+c12BA4839MNS23193                       "Ford  F 250"          2012/05/24       s    1.9    
+c13C6UR5HL4HG5160                       "Ford  F 250"          2015/05/09       s    1.9    
+c13N1483026153628           "Ford  Super Duty 350 XL"          2007/11/08       s    3.82    
+p151BE5SM8G730422               "Dodge Grand Caravan"          2008/06/20       s    7    
+c15CGD21134107609                       "Ford  F 250"          2014/01/10       s    1.9    
+i15GCB21121111036                       "Dodge Demon"          2013/01/18       s    
+i15GCB2217X107079                  "Dodge Challenger"          2007/11/05       a    
+c15GCB29137111286                       "Ford  F 150"          2010/01/01       s    3.04    
+p15GCD20157108781                        "Temsa TS45"          2014/05/15       0    56    
+i15GG82718A117811                  "Chevrolet Impala"          2009/05/17       s    
+p15GGB21136107669               "Dodge Grand Caravan"          2006/03/27       s    7    
+p15GGB21157107774                "Ford  XL Passenger"          2012/03/08       a    15    
+i15GGB221XX107079                       "Dodge Demon"          2007/07/07       s    
+c15GGB27108107999               "Ford  Transit 350HD"          2011/04/06       s    2.33    
+i15GGB2711C118126                       "Dodge Demon"          2006/10/24       s    
+i15GGB2712A117812                  "Chevrolet Impala"          2010/11/15       s    
+p15GGB2715A117813               "Dodge Grand Caravan"          2006/01/17       s    7    
+i15GGB2715B117901                  "Chevrolet Impala"          2006/10/24       s    
+p15GGB2715C118125                "Ford  XL Passenger"          2016/12/04       s    15    
+p15GGB2715D118157                "Ford  XL Passenger"          2010/01/20       s    15    
+i15GGB2716A117812                  "Chevrolet Malibu"          2009/01/15       s    
+p15GGB2716C118126               "Dodge Grand Caravan"          2010/09/26       a    7    
+i15GGB2716C118126                     "Ford  Mustang"          2014/09/06       s    
+p15GGB2717A117754       "Chevrolet Express Passenger"          2008/12/27       s    15    
+c15GGB2717E118373               "Ford  Transit 350HD"          2009/05/09       s    2.33    
+p15GGB2718D118157       "Chevrolet Express Passenger"          2011/01/14       @    15    
+c15GGB2719A117753                       "Ford  F 250"          2012/01/09       s    1.9    
+$15GGB271XA117812                     "Ford  Mustang"          2015/12/27       s    
+c15GGB271XB117813                       "Ford  F 250"          2016/10/14       s    1.9    
+p15GGB271XD118157                "Ford  XL Passenger"          2017/04/19       s    15    
+i15GGB3010B117850                     "Ford  Mustang"          2010/01/28       s    
+i15GGB3019B117850                       "Dodge Demon"          2014/06/19       s    
+p15GGB3019B117850                "Ford  XL Passenger"          2011/08/26       s    15    
+c15GGD1816X107064                    "Dodge Ram 3500"          2013/09/28       s    2.04    
+i15GGD19126107687                       "Dodge Demon"          2014/09/02       s    
+c15GGD19146107687                       "Ford  F 250"          2008/10/83       s    1.9    
+p15GGD191X7107812               "Dodge Grand Caravan"          2012/07/01       s    7    
+c15GGD191X7107812          "Chevrolet Silverado 3500"          2013/73/04       s    2.88    
+i15GGD20169117665                       "Dodge Demon"          2010/12/14       s    
+c15GGD21164107612                    "Dodge Ram 2500"          8011/81/14       s    1.53    
+c15GGD21174107608           "Ford  Super Duty 350 XL"          2007/07/09       s    3.82    
+c15GGD27108117605                       "Ford  F 250"          2007/10/03       s    1.9    
+c15GGD2710E118374                    "Dodge Ram 2500"          2010/08/03       s    1.53    
+p15GGD2710G118836               "Dodge Grand Caravan"          2010/05/23       m    7    
+p15GGD2710G118838       "Chevrolet Express Passenger"          2010/01/09       a    15    
+p15GGD2710H319053               "GMC Thomas Minotour"          7010/12/09       s    14    
+c15GGD2711D118156                       "Ford  F 250"          2010/01/16       s    1.9    
+p15GGD2711D118228       "Chevrolet Express Passenger"          2017/12/13       s    15    
+c15GGD2711E118374                       "Ford  F 250"          2013/04/19       s    1.9    
+p15GGD2711G118835               "Dodge Grand Caravan"          2013/02/13       s    7    
+p15GGD2711G118840       "Chevrolet Express Passenger"          2015/03/16       s    15    
+p15GGD2711G118890                "Ford  XL Passenger"          2015/04/97       s    15    
+i15GGD27128117605                     "Ford  Mustang"          2012/02/18       a    
+p15GGD2712D118229             "Ford  Transit Connect"          2012/03/18       a    7    
+i15GGD2712H319053                  "Chevrolet Impala"          2008/09/05       m    
+c15GGD2713D118227           "Chevrolet Cargo Express"          2013/08/02       s    2.33    

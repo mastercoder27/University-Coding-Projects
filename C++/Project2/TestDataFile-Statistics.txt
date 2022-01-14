@@ -1,0 +1,128 @@
+vehicleList01.txt
+10890 total records on the vector.
+65050 total passenger capacity of all vehicles in the inventory.
+7895.31 total cargo capacity of all vehicles in the inventory.
+
+
+
+
+vehicleList02.txt
+118 total records on the vector.
+592 total passenger capacity of all vehicles in the inventory.
+86.99 total cargo capacity of all vehicles in the inventory.
+
+
+
+my Errors from processing vehicleList01.txt
+../../../../Data/P2/vehicleList01.txt
+instantiating a VehicleLog object
+calling function VehicleLog::read()
+starting while loop to read input data file
+ERROR: caught invalid_argument exception in Date class overloaded operator>>
+ERROR in Date::setDate, invalid data components.
+36 is not valid month
+
+caught invalid_argument exception in VehicleLog::read
+remaining content of bad line:
+       s    2.88    
+caught invalid_argument exception in VehicleLog::read
+remaining content of bad line:
+    1.53    
+caught bad_vehicle_code exception in VehicleLog::read
+remaining content of bad line:
+t1GCGK13U63F16963       "Chevrolet Express Passenger"          2013/12/24       s    15    
+caught bad_vehicle_code exception in VehicleLog::read
+remaining content of bad line:
+t1GCGK24F6WZ19403       "Chevrolet Express Passenger"          2012/09/13       a    15    
+caught bad_vehicle_code exception in VehicleLog::read
+remaining content of bad line:
+t1GCGK24U1XE15431           "Chevrolet Cargo Express"          2007/01/22       s    2.33    
+caught bad_vehicle_code exception in VehicleLog::read
+remaining content of bad line:
+t1GCGSAEA2F117927                     "Ford  Mustang"          2010/09/14       a    
+caught bad_vehicle_code exception in VehicleLog::read
+remaining content of bad line:
+t1GCGSBEA7G120393                  "Chevrolet Impala"          2009/05/08       s    
+caught bad_vehicle_code exception in VehicleLog::read
+remaining content of bad line:
+t1GCGSCE31G132550                     "Ford  Mustang"          2006/04/02       s    
+10890 pointers on the vector!
+
+
+
+my Errors from processing vehicleList02.txt
+
+[waw23@cs-class-1 P2]$ ./a.out ../../../../Data/P2/vehicleList02.txt
+input data file passed as command line argument:
+../../../../Data/P2/vehicleList02.txt
+instantiating a VehicleLog object
+calling function VehicleLog::read()
+starting while loop to read input data file
+caught bad_vehicle_code exception in VehicleLog::read
+remaining content of bad line:
+t1FT8W3BT4HEB3924                  "Chevrolet Impala"          2017/01/21       s
+caught bad_vehicle_code exception in VehicleLog::read
+remaining content of bad line:
+k1N4AL11E92C71367                       "Ford  F 250"          2007/02/03       s    1.9
+ERROR: caught invalid_argument exception in Date class overloaded operator>>
+ERROR in Date::setDate, invalid data components.
+75 is not valid month
+
+caught invalid_argument exception in VehicleLog::read
+remaining content of bad line:
+       m
+caught bad_vehicle_code exception in VehicleLog::read
+remaining content of bad line:
+JJN8AZ1MWXBW17668                       "Ford  F 250"          9014/37/96       7    1.9
+caught invalid_argument exception in VehicleLog::read
+remaining content of bad line:
+
+caught bad_vehicle_code exception in VehicleLog::read
+remaining content of bad line:
+f11FAHP2MK5FG1460                     "Ford  Mustang"          2007/10/22       s
+caught invalid_argument exception in VehicleLog::read
+remaining content of bad line:
+    56
+caught invalid_argument exception in VehicleLog::read
+remaining content of bad line:
+    15
+caught bad_vehicle_code exception in VehicleLog::read
+remaining content of bad line:
+$15GGB271XA117812                     "Ford  Mustang"          2015/12/27       s
+ERROR: caught invalid_argument exception in Date class overloaded operator>>
+ERROR in Date::setDate, invalid data components.
+83 is not valid day for month 10
+
+caught invalid_argument exception in VehicleLog::read
+remaining content of bad line:
+       s    1.9
+ERROR: caught invalid_argument exception in Date class overloaded operator>>
+ERROR in Date::setDate, invalid data components.
+73 is not valid month
+
+caught invalid_argument exception in VehicleLog::read
+remaining content of bad line:
+       s    2.88
+ERROR: caught invalid_argument exception in Date class overloaded operator>>
+ERROR in Date::setDate, invalid data components.
+8011 is not valid year
+81 is not valid month
+
+caught invalid_argument exception in VehicleLog::read
+remaining content of bad line:
+       s    1.53
+ERROR: caught invalid_argument exception in Date class overloaded operator>>
+ERROR in Date::setDate, invalid data components.
+7010 is not valid year
+
+caught invalid_argument exception in VehicleLog::read
+remaining content of bad line:
+       s    14
+ERROR: caught invalid_argument exception in Date class overloaded operator>>
+ERROR in Date::setDate, invalid data components.
+97 is not valid day for month 4
+
+caught invalid_argument exception in VehicleLog::read
+remaining content of bad line:
+       s    15
+118 pointers on the vector!
